@@ -1,4 +1,4 @@
-# O.L.I.V.I.A — Online Learning Intelligent Interactive Assistant
+# O.L.I.V.I.A — Online Learning Intelligent Interactive Assistant (STILL IN PROGRESS)
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![UI](https://img.shields.io/badge/UI-CustomTkinter-green)](#)
