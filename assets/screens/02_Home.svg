@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+    <rect x="0" y="0" width="1200" height="800" fill="#ffffff" stroke="none" rx="0"/>
+    <text x="40" y="45" font-family="Inter" font-size="32" font-weight="bold" fill="#000" text-anchor="start">O.L.I.V.I.A.</text><text x="40" y="80" font-family="Inter" font-size="14" font-weight="normal" fill="#555" text-anchor="start">Choose a section to get started</text>
+    <rect x="40" y="120" width="340" height="170" fill="#A5D6A7" stroke="none" rx="15"/>
+    <text x="60" y="160" font-family="Inter" font-size="20" font-weight="bold" fill="#000" text-anchor="start"> K-12 Learning</text>
+    <text x="60" y="195" font-family="Inter" font-size="14" font-weight="normal" fill="#333" text-anchor="start">14 grades, 89 subjects</text>
+    <text x="60" y="250" font-family="Inter" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Click to open</text>
+    
+    <rect x="420" y="120" width="340" height="170" fill="#90CAF9" stroke="none" rx="15"/>
+    <text x="440" y="160" font-family="Inter" font-size="20" font-weight="bold" fill="#000" text-anchor="start"> College Programs</text>
+    <text x="440" y="195" font-family="Inter" font-size="14" font-weight="normal" fill="#333" text-anchor="start">12 categories, 256 programs</text>
+    <text x="440" y="250" font-family="Inter" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Click to open</text>
+    
+    <rect x="800" y="120" width="340" height="170" fill="#FFCC80" stroke="none" rx="15"/>
+    <text x="820" y="160" font-family="Inter" font-size="20" font-weight="bold" fill="#000" text-anchor="start"> Web Search</text>
+    <text x="820" y="195" font-family="Inter" font-size="14" font-weight="normal" fill="#333" text-anchor="start">Search Google or visit portals</text>
+    <text x="820" y="250" font-family="Inter" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Click to open</text>
+    
+    <rect x="40" y="320" width="340" height="170" fill="#CE93D8" stroke="none" rx="15"/>
+    <text x="60" y="360" font-family="Inter" font-size="20" font-weight="bold" fill="#000" text-anchor="start"> Markdown Reader</text>
+    <text x="60" y="395" font-family="Inter" font-size="14" font-weight="normal" fill="#333" text-anchor="start">View .md with language toggle</text>
+    <text x="60" y="450" font-family="Inter" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Click to open</text>
+    
+    <rect x="420" y="320" width="340" height="170" fill="#F48FB1" stroke="none" rx="15"/>
+    <text x="440" y="360" font-family="Inter" font-size="20" font-weight="bold" fill="#000" text-anchor="start"> Answer Sheets</text>
+    <text x="440" y="395" font-family="Inter" font-size="14" font-weight="normal" fill="#333" text-anchor="start">612 assessments with keys</text>
+    <text x="440" y="450" font-family="Inter" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Click to open</text>
+    
+    <rect x="800" y="320" width="340" height="170" fill="#CE93D8" stroke="none" rx="15"/>
+    <text x="820" y="360" font-family="Inter" font-size="20" font-weight="bold" fill="#000" text-anchor="start"> Create Documents</text>
+    <text x="820" y="395" font-family="Inter" font-size="14" font-weight="normal" fill="#333" text-anchor="start">Built-in editor</text>
+    <text x="820" y="450" font-family="Inter" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Click to open</text>
+    <rect x="0" y="760" width="1200" height="40" fill="#FFF5EB" stroke="none" rx="0"/><text x="20" y="780" font-family="Inter" font-size="11" font-weight="normal" fill="#666" text-anchor="start">Internet: Connected  |  Student  |  EN</text>
+</svg>

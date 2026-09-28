@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+    <rect x="0" y="0" width="1200" height="800" fill="#ffffff" stroke="none" rx="0"/>
+    <text x="40" y="35" font-family="Inter" font-size="28" font-weight="bold" fill="#000" text-anchor="start">Markdown Reader</text>
+    <rect x="40" y="75" width="130" height="36" fill="#90CAF9" stroke="none" rx="8"/>
+    <text x="105.0" y="98.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Open .md File</text>
+    <rect x="190" y="80" width="120" height="32" fill="#e8e8e8" stroke="none" rx="6"/><text x="205" y="98" font-family="Inter" font-size="13" font-weight="normal" fill="#000" text-anchor="middle">English</text><text x="350" y="98" font-family="Inter" font-size="14" font-weight="normal" fill="#999" text-anchor="start">No file opened</text><rect x="40" y="125" width="1120" height="640" fill="#FFF0D0" stroke="none" rx="0"/><text x="80" y="180" font-family="Inter" font-size="14" font-weight="normal" fill="#666" text-anchor="start">Select a lesson from K-12 or College tabs to view content here.</text><text x="80" y="210" font-family="Inter" font-size="14" font-weight="normal" fill="#666" text-anchor="start">Use the language dropdown to switch between English and Tagalog.</text><text x="80" y="240" font-family="Inter" font-size="14" font-weight="normal" fill="#666" text-anchor="start">Subject keywords are color-coded with emoji icons.</text>
+</svg>

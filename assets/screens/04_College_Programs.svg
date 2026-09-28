@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+    <rect x="0" y="0" width="1200" height="800" fill="#ffffff" stroke="none" rx="0"/>
+    <text x="40" y="35" font-family="Inter" font-size="28" font-weight="bold" fill="#000" text-anchor="start">College Programs</text><rect x="950" y="30" width="120" height="35" fill="#e8e8e8" stroke="none" rx="6"/><text x="965" y="50" font-family="Inter" font-size="13" font-weight="normal" fill="#000" text-anchor="middle">Tagalog</text><rect x="620" y="25" width="200" height="90" fill="#FFF8F0" stroke="none" rx="12"/><text x="640" y="45" font-family="Inter" font-size="12" font-weight="bold" fill="#000" text-anchor="start">Official CHED Portal</text>
+    <rect x="645" y="65" width="150" height="35" fill="#90CAF9" stroke="none" rx="8"/>
+    <text x="720.0" y="87.5" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Visit CHED</text>
+    <text x="40" y="70" font-family="Inter" font-size="13" font-weight="normal" fill="#555" text-anchor="start">256 programs across 12 categories</text><rect x="40" y="95" width="540" height="660" fill="#f8f8f8" stroke="none" rx="8"/><text x="60" y="115" font-family="Inter" font-size="14" font-weight="bold" fill="#000" text-anchor="start">Categories</text>
+    <rect x="55" y="140" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="164.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Business (28)</text>
+    
+    <rect x="55" y="184" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="208.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Engineering (34)</text>
+    
+    <rect x="55" y="228" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="252.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">IT & Computing (42)</text>
+    
+    <rect x="55" y="272" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="296.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Health (19)</text>
+    
+    <rect x="55" y="316" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="340.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Education (15)</text>
+    
+    <rect x="55" y="360" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="384.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Sciences (22)</text>
+    <rect x="620" y="95" width="540" height="660" fill="#f8f8f8" stroke="none" rx="8"/><text x="640" y="115" font-family="Inter" font-size="14" font-weight="bold" fill="#000" text-anchor="start">Programs & Difficulties</text><text x="850" y="380" font-family="Inter" font-size="14" font-weight="normal" fill="#999" text-anchor="middle">Select a category from the left</text>
+</svg>

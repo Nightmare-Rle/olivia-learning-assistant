@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.db
+credentials.json
+node_modules/
+*.exe
+.DS_Store
+
+# Generated mobile web content (regenerate, don't commit)
+mobile/web/assets/lessons/
+mobile/web/assets/visual/
+mobile/web/assets/www/lessons/
+mobile/web/assets/www/visual/
+mobile/web/assets/data/

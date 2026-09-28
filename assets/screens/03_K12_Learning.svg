@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+    <rect x="0" y="0" width="1200" height="800" fill="#ffffff" stroke="none" rx="0"/>
+    <text x="40" y="35" font-family="Inter" font-size="28" font-weight="bold" fill="#000" text-anchor="start">K-12 Learning Materials</text><rect x="950" y="30" width="120" height="35" fill="#e8e8e8" stroke="none" rx="6"/><text x="965" y="50" font-family="Inter" font-size="13" font-weight="normal" fill="#000" text-anchor="middle">English</text><rect x="620" y="25" width="200" height="90" fill="#FFF8F0" stroke="none" rx="12"/><text x="640" y="45" font-family="Inter" font-size="12" font-weight="bold" fill="#000" text-anchor="start">Official DepEd Portal</text>
+    <rect x="645" y="65" width="150" height="35" fill="#81C784" stroke="none" rx="8"/>
+    <text x="720.0" y="87.5" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Visit LRMDS</text>
+    <text x="40" y="70" font-family="Inter" font-size="13" font-weight="normal" fill="#555" text-anchor="start">89 subjects across 14 grades</text><rect x="40" y="95" width="540" height="660" fill="#f8f8f8" stroke="none" rx="8"/><text x="60" y="115" font-family="Inter" font-size="14" font-weight="bold" fill="#000" text-anchor="start">Grade Levels</text>
+    <rect x="55" y="140" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="164.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Kindergarten</text>
+    
+    <rect x="55" y="184" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="208.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 1</text>
+    
+    <rect x="55" y="228" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="252.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 2</text>
+    
+    <rect x="55" y="272" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="296.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 3</text>
+    
+    <rect x="55" y="316" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="340.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 4</text>
+    
+    <rect x="55" y="360" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="384.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 5</text>
+    
+    <rect x="55" y="404" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="428.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 6</text>
+    
+    <rect x="55" y="448" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="472.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 7</text>
+    
+    <rect x="55" y="492" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="516.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 8</text>
+    
+    <rect x="55" y="536" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="560.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 9</text>
+    
+    <rect x="55" y="580" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="604.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 10</text>
+    
+    <rect x="55" y="624" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="648.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 11 SHS</text>
+    
+    <rect x="55" y="668" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="692.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Grade 12 SHS</text>
+    
+    <rect x="55" y="712" width="510" height="38" fill="#eaeaea" stroke="none" rx="8"/>
+    <text x="310.0" y="736.0" font-family="Inter" font-size="13" font-weight="bold" fill="#000" text-anchor="middle">Reference Materials</text>
+    <rect x="620" y="95" width="540" height="660" fill="#f8f8f8" stroke="none" rx="8"/><text x="640" y="115" font-family="Inter" font-size="14" font-weight="bold" fill="#000" text-anchor="start">Subjects & Difficulties</text><text x="850" y="380" font-family="Inter" font-size="14" font-weight="normal" fill="#999" text-anchor="middle">Select a grade from the left</text>
+</svg>
